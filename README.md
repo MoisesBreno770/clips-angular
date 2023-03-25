@@ -1,6 +1,6 @@
 # Clips
 
-Clips is an online platform where users can register and upload videos within it. It was developed using angular as frontend and firebase as backend.
+Clips is an online platform where users can register and upload videos within it. It was developed using Angular as frontend and Firebase as backend.
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.4.
 
