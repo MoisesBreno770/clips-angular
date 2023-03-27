@@ -24,7 +24,7 @@ const routes: Routes = [
   },
   {
     path: '', // dashboard/manage, dashboard/upload
-    loadChildren: () => (import('./video/video.module')).then()
+    loadChildren: () => (import('./video/video.module')).then(e => e.VideoModule)
   },
   {
     path: '**',
